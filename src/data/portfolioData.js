@@ -4,7 +4,7 @@ window.portfolioData = {
     name: 'Bishoy Eissa Azmy', title: 'Social Media & Performance Marketing Specialist',
     headline: 'Turning social media from random content into a strategic growth engine.',
     subheadline: 'I help real estate companies, personal brands, TV shows, cosmetics brands, healthcare brands, and tourism businesses grow through social media strategy, creative campaigns, paid media, and performance-focused execution.',
-    expertise: ['Personal Branding', 'TV Show Promotion', 'Cosmetics Marketing', 'Real Estate Marketing', 'Tourism Marketing', 'Meta Ads', 'Creative Campaigns', 'Performance Analysis']
+    expertise: ['Personal Branding', 'TV Show Promotion', 'Cosmetics Marketing', 'Real Estate Marketing', 'Tourism Marketing', 'Meta Ads', 'TikTok Ads', 'Creative Campaigns', 'Performance Analysis']
   },
   contact: {
     email: 'bishoy.eissa99@gmail.com',
@@ -72,7 +72,7 @@ window.portfolioData = {
     ['Doctor Style','Eid Al-Adha Campaign','Selected Doctor Style creative','creative-1.jpg'],['Doctor Style','Eid Al-Adha Campaign','Selected Doctor Style creative','creative-2.jpg'],['Sarah El Mahdy','Eid Al-Adha Campaign','Selected Sarah El Mahdy creative','creative-3.jpg'],['Sarah El Mahdy','Eid Al-Adha Campaign','Selected Sarah El Mahdy creative','creative-4.jpg'],['Doctor Style','Black Friday Campaign','Selected Doctor Style creative','creative-5.jpg'],['Doctor Style','Black Friday Campaign','Selected Doctor Style creative','creative-6.jpg'],['Doctor Style','Black Friday Campaign','Selected Doctor Style creative','creative-7.jpg'],['Doctor Style','Ramadan Campaign','Selected Doctor Style creative','creative-8.jpg'],['Doctor Style','Ramadan Campaign','Selected Doctor Style creative','creative-9.jpg'],['Creative Work','Selected Campaign Creative','Selected creative sample','creative-10.jpg'],['Creative Work','Selected Campaign Creative','Selected creative sample','creative-11.jpg'],['Creative Work','Selected Campaign Creative','creative sample','creative-12.jpg']
   ],
   tools: ['Codex','Claude AI','Gemini','Google Flow','Meta Ads Manager','Meta Business Suite','Canva','CapCut','Photoshop','Microsoft Office','Google Drive','ChatGPT','Facebook Leads Center'],
-  skills: ['Social Media Strategy','Content Planning','Creative Direction','Copywriting','Campaign Ideas','Meta Ads','Performance Analysis','Campaign Optimization','Competitor Analysis','Lead Generation','Community Engagement','Creative Briefs','Social Media Reporting','Audience Understanding','AI-Assisted Content Creation','AI-Assisted Creative Direction','Marketing Research','Campaign Reporting'],
+  skills: ['Social Media Strategy','Content Planning','Creative Direction','Copywriting','Campaign Ideas','Meta Ads','TikTok Ads','Performance Analysis','Campaign Optimization','Competitor Analysis','Lead Generation','Community Engagement','Creative Briefs','Social Media Reporting','Audience Understanding','AI-Assisted Content Creation','AI-Assisted Creative Direction','Marketing Research','Campaign Reporting'],
   certifications: [
     ['certificate-top-content-creator.jpg', 'Top Content Creator', 'IMFND', 'Recognition certificate'],
     ['certificate-social-media-specialist.png', 'Social Media Specialist Diploma', 'IMFND / Pearson', '03/11/2024'],
